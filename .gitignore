@@ -1,0 +1,61 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+.gradle/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Secrets
+.env
+google-services.json
+
+# IntelliJ IDEA/Android Studio Workspace
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+*.iws
+
+# Python/Machine Learning
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# macOS
+.DS_Store
+build_output*.txt
+build_err*.txt
+
+# App Uploads
+DeepWorkBackend/uploads/
+DeepWorkBackend/profile_pics/
+
+# Audio files
+DeepWorkAI_UI/app/src/main/res/raw/*.mp3
